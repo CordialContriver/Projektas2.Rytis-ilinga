@@ -1,0 +1,56 @@
+{
+  "T002" : {
+    "testID" : "T002",
+    "questions" : {
+      "1" : {
+        "questionText" : "1+2",
+        "answerVariants" : [ "[1] 3", "[2] 4", "[3] 5" ],
+        "correctAnswer" : 1
+      },
+      "2" : {
+        "questionText" : "2+3",
+        "answerVariants" : [ "[1] 4", "[2] 5", "[3] 6" ],
+        "correctAnswer" : 2
+      },
+      "3" : {
+        "questionText" : "3+4",
+        "answerVariants" : [ "[1] 5", "[2] 6", "[3] 7" ],
+        "correctAnswer" : 3
+      }
+    },
+    "randomQuestions" : true,
+    "numberOfQuestions" : 2,
+    "passGrade" : 1.0
+  },
+  "M02" : {
+    "testID" : "M02",
+    "questions" : {
+      "1" : {
+        "questionText" : "2+2",
+        "answerVariants" : [ "[1] 4", "[2] 5", "[3] 6" ],
+        "correctAnswer" : 1
+      }
+    },
+    "randomQuestions" : false,
+    "numberOfQuestions" : 1,
+    "passGrade" : 1.0
+  },
+  "M01" : {
+    "testID" : "M01",
+    "questions" : {
+      "1" : {
+        "questionText" : "Ar taip?",
+        "answerVariants" : [ "[1] Taip", "[2] Ne" ],
+        "correctAnswer" : 1
+      },
+      "2" : {
+        "questionText" : "O gal ne?",
+        "answerVariants" : [ "[1] Taip", "[2] Ne" ],
+        "correctAnswer" : 2
+      }
+    },
+    "randomQuestions" : false,
+    "numberOfQuestions" : 2,
+    "passGrade" : 2.0
+  }
+}

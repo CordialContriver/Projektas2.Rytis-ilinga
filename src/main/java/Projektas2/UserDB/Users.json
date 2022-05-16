@@ -1,0 +1,34 @@
+{
+  "tt2" : {
+    "id" : "tt2",
+    "name" : "Tomas",
+    "surname" : "Tomukas",
+    "password" : "bf5f6e767a67082249bf8f3ba32f9617c990ec79",
+    "passwordSalt" : "109422100oo",
+    "userType" : "STUDENT"
+  },
+  "m0rs" : {
+    "id" : "mrs0",
+    "name" : "ryt",
+    "surname" : "sil",
+    "password" : "5e1a9049da41a54a6c6d009e82cce1e8698ba809",
+    "passwordSalt" : "039118400yi",
+    "userType" : "TEACHER"
+  },
+  "tm1" : {
+    "id" : "tm1",
+    "name" : "tomas",
+    "surname" : "motus",
+    "password" : "94177bd8a747de5b8e69578ef5c8f0bf6821c912",
+    "passwordSalt" : "470267oo",
+    "userType" : "STUDENT"
+  },
+  "tm3" : {
+    "id" : "tm3",
+    "name" : "Tomas",
+    "surname" : "Motus",
+    "password" : "dffbeb3dc72c266be07b7f819f15fc8768b2bd18",
+    "passwordSalt" : "935505100oo",
+    "userType" : "STUDENT"
+  }
+}

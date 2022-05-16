@@ -1,0 +1,53 @@
+{
+  "T002" : [ {
+    "studentID" : "tt2",
+    "testID" : "T002",
+    "testDateTime" : [ 2022, 5, 16, 16, 18, 22, 871547300 ],
+    "studentAnswers" : [ "Nr. 1: 2", "Nr. 2: 2" ],
+    "grade" : 5.0,
+    "passed" : true
+  }, {
+    "studentID" : "tt2",
+    "testID" : "T002",
+    "testDateTime" : [ 2022, 5, 16, 16, 23, 59, 473987200 ],
+    "studentAnswers" : [ "Nr. 1: 3", "Nr. 2: 3" ],
+    "grade" : 0.0,
+    "passed" : false
+  }, {
+    "studentID" : "tt2",
+    "testID" : "T002",
+    "testDateTime" : [ 2022, 5, 16, 17, 25, 53, 607420200 ],
+    "studentAnswers" : [ "Nr. 1: 1", "Nr. 2: 2" ],
+    "grade" : 10.0,
+    "passed" : true
+  }, {
+    "studentID" : "tt2",
+    "testID" : "T002",
+    "testDateTime" : [ 2022, 5, 16, 17, 54, 20, 681357900 ],
+    "studentAnswers" : [ "Nr. 1: 1", "Nr. 2: 2" ],
+    "grade" : 10.0,
+    "passed" : true
+  }, {
+    "studentID" : "tt2",
+    "testID" : "T002",
+    "testDateTime" : [ 2022, 5, 16, 18, 21, 11, 388518800 ],
+    "studentAnswers" : [ "Nr. 1: 1", "Nr. 2: 3" ],
+    "grade" : 5.0,
+    "passed" : true
+  } ],
+  "M01" : [ {
+    "studentID" : "tt2",
+    "testID" : "M01",
+    "testDateTime" : [ 2022, 5, 16, 16, 25, 30, 323713500 ],
+    "studentAnswers" : [ "Nr. 1: 1", "Nr. 2: 2" ],
+    "grade" : 10.0,
+    "passed" : true
+  }, {
+    "studentID" : "tt2",
+    "testID" : "M01",
+    "testDateTime" : [ 2022, 5, 16, 17, 24, 40, 85054000 ],
+    "studentAnswers" : [ "Nr. 1: 1", "Nr. 2: 2" ],
+    "grade" : 10.0,
+    "passed" : true
+  } ]
+}
